@@ -8,7 +8,7 @@ export default
                         'from Dallas, TX'
     ],
         contactEmail:'broganneagle12@gmail.com',
-        resume: "./resume.pdf",
+        resume: 'https://tinyurl.com/yy6886jo',
         abouttext: "Full-stack web developer with Electrical and Computer Engineering, specifically software engineering and design, and Entrepreneurship experience educated at The University of Texas at Austin. Certified in full stack web development from The University of Texas at Austin. Skills in HTML, CSS, and JavaScript and strengths in problem solving, creativity, and leadership. Successfully obtained a trademark and patent on my first startup company HeadVault. Passionate about finding technological solutions to community needs and collaborating with others to create meaningful web applications. Excited to continue to develop a new social media platform called Unwind, Inc. Positioned to provide unique perspectives on how work as a team to solve a need in our community.",
         aboutImage:'./biopic.png',
        ShowAboutImage:true,
